@@ -2,21 +2,27 @@
 
 Para um melhor entendimento sobre Sistemas Especialistas, desenvolvi um SE capaz de indicar a melhor família e melhor cerveja artesanal, baseado na interação feita com o usuário através de perguntas. Para o desenvolvimento, foi utilizado uma sheel chamada Expert Sinta que tem como objetivo principal simplificar o trabalho de implementação de sistemas especialistas.  
 
-Variável: Cerveja  
-Objetivos:  
-	Ales:   
+**Variável:** Cerveja  
+**Objetivos:**  
+
+
+	**Ales:**       
 •	American Pale Ale  
 •	Porter  
 •	Stout  
 •	India Pale Ale  
 •	Weiss  
-Lager:  
+
+
+	**Lager:**    
 •	Pilsen  
 •	Dunkel  
 •	Amber Lager  
 •	Malzbier  
 •	Bock  
-Questões:  
+
+
+**Questões:**  
 1.	Você já experimentou slguma cerveja artesanal?  
 2.	Você prefere aromas intensos ou suaves?  
 3.	Qual o teor alcoólico permitido para o momento?  
