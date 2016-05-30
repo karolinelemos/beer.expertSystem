@@ -6,7 +6,7 @@ Para um melhor entendimento sobre Sistemas Especialistas, desenvolvi um SE capaz
 **Objetivos:**  
 
 
-	**Ales:**       
+	Ales:  
 •	American Pale Ale  
 •	Porter  
 •	Stout  
@@ -14,7 +14,7 @@ Para um melhor entendimento sobre Sistemas Especialistas, desenvolvi um SE capaz
 •	Weiss  
 
 
-	**Lager:**    
+	Lager:   
 •	Pilsen  
 •	Dunkel  
 •	Amber Lager  
